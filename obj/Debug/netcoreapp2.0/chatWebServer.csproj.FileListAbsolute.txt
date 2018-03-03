@@ -1,0 +1,11 @@
+C:\Users\AMD\Core\chatWebServer\bin\Debug\netcoreapp2.0\chatWebServer.deps.json
+C:\Users\AMD\Core\chatWebServer\bin\Debug\netcoreapp2.0\chatWebServer.runtimeconfig.json
+C:\Users\AMD\Core\chatWebServer\bin\Debug\netcoreapp2.0\chatWebServer.runtimeconfig.dev.json
+C:\Users\AMD\Core\chatWebServer\bin\Debug\netcoreapp2.0\chatWebServer.dll
+C:\Users\AMD\Core\chatWebServer\bin\Debug\netcoreapp2.0\chatWebServer.pdb
+C:\Users\AMD\Core\chatWebServer\obj\Debug\netcoreapp2.0\chatWebServer.csprojResolveAssemblyReference.cache
+C:\Users\AMD\Core\chatWebServer\obj\Debug\netcoreapp2.0\chatWebServer.csproj.CoreCompileInputs.cache
+C:\Users\AMD\Core\chatWebServer\obj\Debug\netcoreapp2.0\chatWebServer.AssemblyInfoInputs.cache
+C:\Users\AMD\Core\chatWebServer\obj\Debug\netcoreapp2.0\chatWebServer.AssemblyInfo.cs
+C:\Users\AMD\Core\chatWebServer\obj\Debug\netcoreapp2.0\chatWebServer.dll
+C:\Users\AMD\Core\chatWebServer\obj\Debug\netcoreapp2.0\chatWebServer.pdb
